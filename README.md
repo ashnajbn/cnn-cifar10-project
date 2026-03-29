@@ -33,7 +33,19 @@ jupyter notebook
 
 ## 📈 Results
 
-(Add your screenshots here)
+### 🔍 Model Comparison (Validation Accuracy)
+
+![Model Comparison](model_comparison.png)
+
+### 📊 Insights
+
+* **AlexNet** achieved the highest validation accuracy (~0.76)
+* **VGG16** showed stable and consistent performance (~0.60)
+* **LeNet** improved gradually but remained moderate (~0.61)
+* **ResNet50** performed lower due to possible underfitting or limited training
+
+This comparison highlights how deeper architectures impact performance on CIFAR-10.
+
 
 ## 🛠️ Tech Stack
 
