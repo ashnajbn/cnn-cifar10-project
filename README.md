@@ -6,7 +6,8 @@ This project implements a Convolutional Neural Network (CNN) to classify images 
 
 * Image classification using CNN
 * Built with TensorFlow / Keras
-* Achieves good accuracy on test data
+* Trained on CIFAR-10 dataset
+* Visualized accuracy and loss
 
 ## 📂 Files
 
@@ -17,7 +18,7 @@ This project implements a Convolutional Neural Network (CNN) to classify images 
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/cnn-cifar10-project.git
+git clone https://github.com/ashnajbn/cnn-cifar10-project.git
 ```
 
 2. Open the notebook
@@ -28,7 +29,11 @@ jupyter notebook
 
 ## 📊 Dataset
 
-* CIFAR-10 dataset (10 classes of images)
+* CIFAR-10 dataset (10 image classes like airplane, car, bird, etc.)
+
+## 📈 Results
+
+(Add your screenshots here)
 
 ## 🛠️ Tech Stack
 
@@ -39,4 +44,4 @@ jupyter notebook
 
 ## 👩‍💻 Author
 
-Ashna
+Ashna (https://github.com/ashnajbn)
